@@ -1,6 +1,6 @@
 /**
  * @name wakh_NITRO_Library
- * @description Разблокирует нетрадиционные ценности совершенно бесплатно.
+ * @description Библиотека нетрадиционных ценностей (совершенно бесплатно).
  * @version 6.6.6
  * @author wakh
  * @source https://github.com/bywakh/plugin
@@ -91,10 +91,10 @@ module.exports = {
     name: "wakh_NITRO_Library",
     author: "wakh",
     version: "6.6.6",
-    description: "Разблокирует нетрадиционные ценности совершенно бесплатно",
+    description: "Библиотека нетрадиционных ценностей (совершенно бесплатно)",
     source: "https://github.com/bywakh/plugin",
     changelog: [
-        {title: "Унижает разработчиков Discord", type: " ", items: ["Демонстрация экрана в наилучшем качестве", "Совершенно бесплатно"]},
+        {title: "Унижает разработчиков Discord", type: " ", items: ["Демонстрация экрана в наилучшем качестве", "Массаж простаты, без использования специальных приспособлений", "И прочая ненужная хуета"]},
     ],
     main: "index.js"
 };
