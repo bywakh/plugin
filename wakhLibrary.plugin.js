@@ -93,7 +93,7 @@ module.exports = {
     version: "6.6.6",
     description: "Разблокирует нетрадиционные ценности совершенно бесплатно",
     source: "https://github.com/bywakh/plugin",
-    github_raw: "https://raw.githubusercontent.com/bywakh/plugin/master/release/wakhLibrary.plugin.js",
+    github_raw: "https://raw.githubusercontent.com/bywakh/plugin/main/wakhLibrary.plugin.js",
     changelog: [
         {title: "Унижает разработчиков Discord", type: " ", items: ["Демонстрация экрана в наилучшем качестве", "Совершенно бесплатно"]},
     ],
